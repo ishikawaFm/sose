@@ -8,7 +8,7 @@ public class CameraController : MonoBehaviour
     // Start is called before the first frame update
     public GameObject player;
     public GameObject mainCamre;
-    public float rotateSpeed;
+    public float rotateSpeeds;
     private const int rotateButton = 1;
     private const float angleLimitUp = 60f;
     private const float angleLimitDown = -60f;
